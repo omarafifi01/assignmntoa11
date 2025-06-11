@@ -41,7 +41,6 @@
 *.pidb.meta
 
 # Built application files
-*.apk
 *.aab
 
 # OS generated files
