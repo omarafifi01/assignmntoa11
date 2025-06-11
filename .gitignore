@@ -1,0 +1,49 @@
+# === Unity Generated ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Crash reports
+*.pidb
+*.suo
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.vsp
+*.vspx
+*.vspscc
+
+# Auto-generated VS/MD solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Rider
+.idea/
+
+# Asset meta data should be tracked
+*.pidb.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Built application files
+*.apk
+*.aab
+
+# OS generated files
+.DS_Store
+Thumbs.db
